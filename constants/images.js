@@ -6,4 +6,6 @@ export const images = {
     USB: require('../assets/usb.png'),
     Start: require('../assets/Star.png'),
     Camera: require('../assets/camera.png'),
+    Tick: require('../assets/tick.png'),
+    NotTick: require('../assets/notTick.png'),
 };
