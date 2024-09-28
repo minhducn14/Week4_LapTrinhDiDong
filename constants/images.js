@@ -8,4 +8,7 @@ export const images = {
     Camera: require('../assets/camera.png'),
     Tick: require('../assets/tick.png'),
     NotTick: require('../assets/notTick.png'),
+
+    Book: require('../assets/book.png'),
+    YellowBlock: require('../assets/yellow_block.png'),
 };
